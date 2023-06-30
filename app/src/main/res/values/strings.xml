@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RadiusAgentAssignment</string>
+    <string name="facility_header">Facilities</string>
+    <string name="exclusions_header">Exclusions</string>
+    <string name="facility_id">1</string>
+    <string name="option_id">4</string>
+    <string name="icon">Icon</string>
+</resources>
